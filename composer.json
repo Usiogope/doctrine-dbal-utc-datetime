@@ -11,8 +11,8 @@
         }
     ],
     "require": {
-        "php": "^7.1",
-        "doctrine/dbal": "^2.6"
+        "php": "^7.1|^8.0",
+        "doctrine/dbal": "^2.0"
     },
     "suggest": {
         "doctrine/doctrine-bundle": "For Symfony integration of the DBAL type"
